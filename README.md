@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋, I'm Christina Ibrahim</h1>
+<h1 style="text-align: center;"> Hi 👋, I'm Christina Ibrahim</h1>
 
-<p>🚀 <b>Senior Frontend Developer | Angular & React Specialist</b></p>
+<p style="text-align: center;">🚀 <b> Frontend Developer | Angular & React Specialist</b></p>
 
-<p>🔹 Senior Frontend Engineer with 4+ years of experience in scalable, high-performance web applications.<br/>
+<p>🔹 Frontend Engineer with 4+ years of experience in scalable, high-performance web applications.<br/>
 🔹 Specialized in <b>Angular</b>, <b>React</b>, <b>TypeScript</b>, <b>JavaScript (ES6+)</b>, <b>RxJS</b>, and modern UI/UX practices.<br/>
 🔹 Experienced in <b>microfrontends</b>, enterprise-scale Angular projects, and modern web architectures.<br/>
 🔹 Strong in <b>team leadership</b>, mentoring developers, and aligning frontend strategy with business goals.<br/>
@@ -32,14 +32,12 @@
 
 <h3>📫 How to reach me</h3>
 <p>
-📧 Email: abdo.samir.7719@gmail.com<br/>
+📧 Email:christina.i.aziz7@gmail.com
+<br/>
 <a href="https://www.linkedin.com/in/christina-ibrahim/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<h3>🌟 GitHub Stats</h3>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Christina's GitHub Stats" />
-</p>
+
 
 <p>🚀 Looking for new opportunities to contribute to impactful projects. Let’s connect!</p>
