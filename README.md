@@ -7,6 +7,7 @@
 🔹 Strong in <b>team leadership</b>, mentoring developers, and aligning frontend strategy with business goals.<br/>
 🔹 Proven track record across <b>ministries, universities, and e-commerce platforms</b>.<br/>
 🔹 Always learning, innovating, and pushing web performance to the next level.</p>
+<hr>
 
 <h3>🛠️ Tech Stack & Tools</h3>
 <p>
