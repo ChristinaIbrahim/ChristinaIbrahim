@@ -39,4 +39,4 @@
 
 
 
-<p>🚀 Looking for new opportunities to contribute to impactful projects. Let’s connect!</p>
+<p  align="center">🚀 Looking for new opportunities to contribute to impactful projects. Let’s connect!</p>
