@@ -30,6 +30,7 @@
   <img alt="JIRA" src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
+<hr>
 <h3>📫 How to reach me</h3>
 <p>
 📧 Email:christina.i.aziz7@gmail.com
@@ -38,6 +39,6 @@
 <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-
+<hr>
 
 <p  align="center">🚀 Looking for new opportunities to contribute to impactful projects. Let’s connect!</p>
