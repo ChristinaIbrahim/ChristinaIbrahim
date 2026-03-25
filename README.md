@@ -1,6 +1,9 @@
-<h1 style="text-align: center;"> Hi 👋, I'm Christina Ibrahim</h1>
+,يه..نتنتن
+<h1 align="center"> Hi 👋, I'm Christina Ibrahim</h1>
+مممم
+نةتنتناا
 
-<p style="text-align: center;">🚀 <b> Frontend Developer | Angular & React Specialist</b></p>
+<p align="center">🚀 <b> Frontend Developer | Angular & React Specialist</b></p>
 
 <p>🔹 Frontend Engineer with 4+ years of experience in scalable, high-performance web applications.<br/>
 🔹 Specialized in <b>Angular</b>, <b>React</b>, <b>TypeScript</b>, <b>JavaScript (ES6+)</b>, <b>RxJS</b>, and modern UI/UX practices.<br/>
