@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋, I'm Christina Ibrahim</h1>
 <p align="center">🚀 <b> Frontend Developer | Angular Specialist</b></p>
-<p>🔹 Frontend Engineer with 4+ years of experience in scalable, high-performance web applications.<br/>
+<p>🔹 Frontend Engineer experience in scalable, high-performance web applications.<br/>
 🔹 Specialized in <b>Angular</b>, <b>React</b>, <b>TypeScript</b>, <b>JavaScript (ES6+)</b>, <b>RxJS</b>, and modern UI/UX practices.<br/>
 🔹 Experienced in <b>microfrontends</b>, enterprise-scale Angular projects, and modern web architectures.<br/>
 🔹 Strong in <b>team leadership</b>, mentoring developers, and aligning frontend strategy with business goals.<br/>
