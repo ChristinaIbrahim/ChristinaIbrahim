@@ -43,7 +43,7 @@ Responsive enterprise-level eCommerce platform featuring a complete shopping lif
 * **Features:** Advanced product filtering, dynamic shopping cart, JWT Authentication, lazy loading modules, and fully responsive layouts.
 * [View Repository ↗](https://github.com/ChristinaIbrahim/freshcart-ecommerce)
 
-#### 📊 Cyber50 Security Analytics Dashboard *(In Progress)*
+#### 📊 Cyber50 Security Analytics Dashboard
 A production-grade analytics dashboard designed to visualize complex data structures and dynamic sorting with real-time optimization.
 
 * **Tech Stack:** Angular, TypeScript, RxJS, HTML5, Scss
