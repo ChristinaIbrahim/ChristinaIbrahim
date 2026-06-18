@@ -9,12 +9,17 @@
 🔹 Frontend Engineer with 4 years of experience in building responsive, scalable, and high-performance web applications.
 <br>
 🔹 Expert in modern JavaScript ecosystems, with an intensive focus on **React.js** and robust development experience using **Angular & TypeScript**.
+<br>
 🔹 Deep understanding of state management & asynchronous data streams (**Zustand/Redux** for React, and **RxJS** for Angular architectures).
+<br>
 🔹 Experienced in **RESTful API integration, component-driven architecture**, and implementing strict testing strategies.
+<br>
 🔹 Strong focus on leveraging modern **AI-assisted tools (Cursor, Claude)** to optimize workflows and code reliability.
+<br>
 🔹 Proud Graduate of the **Information Technology Institute (ITI)** Professional Training Program.
+<br>
 🔹 Always learning, innovating, and pushing web performance and SEO optimization to the next level.
-
+<br>
 ---
 
 ### 🛠️ Tech Stack & Tools
