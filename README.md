@@ -19,7 +19,7 @@
 🔹 Proud Graduate of the **Information Technology Institute (ITI)** Professional Training Program.
 <br>
 🔹 Always learning, innovating, and pushing web performance and SEO optimization to the next level.
-<br>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
