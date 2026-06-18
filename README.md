@@ -52,15 +52,7 @@ A production-grade analytics dashboard designed to visualize complex data struct
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristinaIbrahim&show_icons=true&theme=radical&rank_icon=github" alt="Christina's GitHub Stats" />
-</div>
-
----
-
-### 📬 How to reach me
+### 📬 Connect with Me
 
 📩 **Email:** christina.i.aziz7@gmail.com
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/christina-ibrahim-2a307b157/)
