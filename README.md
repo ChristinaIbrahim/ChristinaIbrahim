@@ -20,25 +20,17 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### ⚙️ Technical Skills (Visual Showcase)
-
 **Frontend Development:**
 <br>
-<img src="https://purple-skills.github.io/skills-icons/icons/angular.svg" width="40" height="40" alt="Angular" /> <img src="https://purple-skills.github.io/skills-icons/icons/react.svg" width="40" height="40" alt="React" /> <img src="https://purple-skills.github.io/skills-icons/icons/typescript.svg" width="40" height="40" alt="TypeScript" /> <img src="https://purple-skills.github.io/skills-icons/icons/javascript.svg" width="40" height="40" alt="JavaScript" /> <img src="https://purple-skills.github.io/skills-icons/icons/html.svg" width="40" height="40" alt="HTML5" /> <img src="https://purple-skills.github.io/skills-icons/icons/css.svg" width="40" height="40" alt="CSS3" />
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Styling & UI:**
 <br>
-<img src="https://purple-skills.github.io/skills-icons/icons/tailwind.svg" width="40" height="40" alt="TailwindCSS" /> <img src="https://purple-skills.github.io/skills-icons/icons/bootstrap.svg" width="40" height="40" alt="Bootstrap" /> <img src="https://purple-skills.github.io/skills-icons/icons/sass.svg" width="40" height="40" alt="Sass" />
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-**Tools & Technologies:**
+**State Management & Tools:**
 <br>
-<img src="https://purple-skills.github.io/skills-icons/icons/git.svg" width="40" height="40" alt="Git" /> <img src="https://purple-skills.github.io/skills-icons/icons/github.svg" width="40" height="40" alt="GitHub" /> <img src="https://purple-skills.github.io/skills-icons/icons/figma.svg" width="40" height="40" alt="Figma" />
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
