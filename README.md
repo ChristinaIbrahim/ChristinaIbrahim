@@ -48,7 +48,7 @@ A production-grade analytics dashboard designed to visualize complex data struct
 
 * **Tech Stack:** Angular, TypeScript, RxJS, HTML5, Scss
 * **Features:** Real-time data filtering, custom JSON analytics, dynamic data sorting, and interactive data visualization modules.
-* [View Repository ↗](https://github.com/ChristinaIbrahim/Real-TimeVideoProcessing-Task)
+* [View Repository ↗](https://github.com/ChristinaIbrahim/cyber-50-defense-dashboard-main)
 
 ---
 
