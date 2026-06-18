@@ -6,7 +6,7 @@
 
 </div>
 
-🔹 Frontend Engineer with 5+ years of experience in building responsive, scalable, and high-performance web applications.
+🔹 Frontend Engineer with 4 years of experience in building responsive, scalable, and high-performance web applications.
 <br>
 🔹 Expert in modern JavaScript ecosystems, with an intensive focus on **Angular** & robust development experience using **React.js & TypeScript**.
 <br>
