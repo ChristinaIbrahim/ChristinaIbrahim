@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Christina Ibrahim
 
-### 🚀  Frontend Engineer | Angular Specialist
+### 🚀 Frontend Engineer | Angular Specialist
 
 </div>
 
@@ -26,6 +26,22 @@
 
 ---
 
+### ⚙️ Technical Skills (Visual Showcase)
+
+**Frontend Development:**
+<br>
+<img src="https://purple-skills.github.io/skills-icons/icons/angular.svg" width="40" height="40" alt="Angular" /> <img src="https://purple-skills.github.io/skills-icons/icons/react.svg" width="40" height="40" alt="React" /> <img src="https://purple-skills.github.io/skills-icons/icons/typescript.svg" width="40" height="40" alt="TypeScript" /> <img src="https://purple-skills.github.io/skills-icons/icons/javascript.svg" width="40" height="40" alt="JavaScript" /> <img src="https://purple-skills.github.io/skills-icons/icons/html.svg" width="40" height="40" alt="HTML5" /> <img src="https://purple-skills.github.io/skills-icons/icons/css.svg" width="40" height="40" alt="CSS3" />
+
+**Styling & UI:**
+<br>
+<img src="https://purple-skills.github.io/skills-icons/icons/tailwind.svg" width="40" height="40" alt="TailwindCSS" /> <img src="https://purple-skills.github.io/skills-icons/icons/bootstrap.svg" width="40" height="40" alt="Bootstrap" /> <img src="https://purple-skills.github.io/skills-icons/icons/sass.svg" width="40" height="40" alt="Sass" />
+
+**Tools & Technologies:**
+<br>
+<img src="https://purple-skills.github.io/skills-icons/icons/git.svg" width="40" height="40" alt="Git" /> <img src="https://purple-skills.github.io/skills-icons/icons/github.svg" width="40" height="40" alt="GitHub" /> <img src="https://purple-skills.github.io/skills-icons/icons/figma.svg" width="40" height="40" alt="Figma" />
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🛒 FreshCart E-Commerce Platform
@@ -41,6 +57,14 @@ A production-grade analytics dashboard designed to visualize complex data struct
 * **Tech Stack:** Angular, TypeScript, RxJS, HTML5, Scss
 * **Features:** Real-time data filtering, custom JSON analytics, dynamic data sorting, and interactive data visualization modules.
 * [View Repository ↗](https://github.com/ChristinaIbrahim/Real-TimeVideoProcessing-Task)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristinaIbrahim&show_icons=true&theme=radical&rank_icon=github" alt="Christina's GitHub Stats" />
+</div>
 
 ---
 
