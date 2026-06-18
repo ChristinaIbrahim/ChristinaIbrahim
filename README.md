@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Christina Ibrahim
 
-### 🚀 Frontend Engineer | Angular Specialist
+### 🚀 Frontend Engineer 
 
 </div>
 
