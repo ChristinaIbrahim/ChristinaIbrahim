@@ -28,6 +28,6 @@
 
 📩 **Email:** christina.i.aziz7@gmail.com
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE" target="_blank">
+<a href="https://www.linkedin.com/in/christina-ibrahim-2a307b157/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
