@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Christina Ibrahim
 
-### 🚀 Senior Frontend Engineer | React.js & Angular Specialist
+### 🚀 Senior Frontend Engineer | Angular Specialist
 
 </div>
 
-🔹 Frontend Engineer with 5+ years of experience in building responsive, scalable, and high-performance web applications.
+🔹 Frontend Engineer with 4 years of experience in building responsive, scalable, and high-performance web applications.
 🔹 Expert in modern JavaScript ecosystems, with an intensive focus on **React.js** and robust development experience using **Angular & TypeScript**.
 🔹 Deep understanding of state management & asynchronous data streams (**Zustand/Redux** for React, and **RxJS** for Angular architectures).
 🔹 Experienced in **RESTful API integration, component-driven architecture**, and implementing strict testing strategies.
